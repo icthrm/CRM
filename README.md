@@ -7,4 +7,4 @@ The simulator contains the C++ source for the simulated data
 
 art_subtomo_proof_of_concept_matlab.tar.gz contains the MATLAB code
 
-the bashes contains the usage of the compiled exe
+the bashes contain the usage of the compiled exe
