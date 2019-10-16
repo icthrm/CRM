@@ -1,5 +1,4 @@
 add_subdirectory(main-mpi)
-add_subdirectory(main-mpi-output-diff)
 add_subdirectory(mrcmx)
 # add_subdirectory(mrcimg)
 add_subdirectory(util)
